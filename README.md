@@ -15,3 +15,4 @@ An interactive web-based tool designed to educate users about phishing attacks t
 100% client-side – No backend required
 
 📸 Preview
+![iamge alt](https://github.com/alwaysbeinghemant/phishing_awareness-system/blob/b1fc7d6916c9af2db70513fa01a30aa2497ab795/Screenshot%202025-07-17%20210834.png)
